@@ -1,8 +1,8 @@
 # site
 
-[videoDAC project homepage](https://explorer.livepeer.org/accounts/0xdac817294c0c87ca4fa1895ef4b972eade99f2fd/campaign) can be found as part of Livepeer's Protocol Explorer:
+[videoDAC project homepage](http://videodac.eth.link) can be found as part of Livepeer's Protocol Explorer:
 
-This repository explains the setup of videodac.eth.link using ENS and IPFS, to direct a user to [videoDAC project homepage](https://explorer.livepeer.org/accounts/0xdac817294c0c87ca4fa1895ef4b972eade99f2fd/campaign).
+This repository explains the setup of videodac.eth.link using ENS and IPFS, to direct a user to [videoDAC project homepage](http://videodac.eth.link).
 
 1. Create `redirect.html`
 
