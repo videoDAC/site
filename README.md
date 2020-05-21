@@ -6,6 +6,10 @@ This repository explains the setup of videodac.eth.link using ENS and IPFS, to d
 
 1. Create `redirect.html`
 
+[The html file used in this process](./redirect.html) is also shared in this repository.
+
+- Edit this file to redirect to your desired web address.
+
 2. Publish and Pin `redirect.html` to IPFS
 
 Make sure IPFS is running on your localhost.
